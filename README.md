@@ -2,9 +2,10 @@
 
 #### Full Stack Developer building production ready web applications from idea to deployment
 
-
-
 ---
+
+<br />
+
 ## Connect with me
 
 
@@ -39,13 +40,16 @@
   </tr>
 </table>
 
-
+<br />
 
 ## 🛠 Tech Stack
 
 ### Languages
-- TypeScript
-- Python
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,python" />
+  </a>
+</p>
 
 ### Frontend
 - React
@@ -54,6 +58,14 @@
 - Zod
 - Tailwind CSS
 - Shadcn UI
+<p>
+    <img src="https://skillicons.dev/icons?i=react" height="40" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/0*Zb9Uoad33rLb7v03.png" height="40""  />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgsHICdOH2awISuCdhQfZSCboBhr9AHenAIw&s" height="40" />
+    <img src="https://zod.dev/icon.png?39fe259ddd7f4224" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" height="40" />
+  <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" height="40" />
+</p>
 
 ### Backend
 - Node.js
