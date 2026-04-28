@@ -1,14 +1,45 @@
-# Hi, I'm Lasitha Ranathunga 👋
+# Lasitha Ranathunga
 
-**Full Stack Developer | AI-Specialized Computer Science Graduate**  
-Colombo, Sri Lanka  
+#### Full Stack Developer building production ready web applications from idea to deployment
 
-I build production-ready web applications and backend systems using **TypeScript, Node.js, React, and PostgreSQL**.  
-Specialized in Artificial Intelligence, with experience in API design, payment integrations, DevOps pipelines, and transformer-based NLP systems.
 
-I’m focused on becoming a world-class engineer by building scalable systems and deeply understanding how software works under the hood.
 
 ---
+## Connect with me
+
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/lasithara/" target="_blank">
+    <img 
+      src="https://skillicons.dev/icons?i=linkedin" 
+      height="30"
+      style="vertical-align: middle;"
+    />  
+  </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/lasithara/">https://www.linkedin.com/in/lasithara/</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="mailto:lasitharanathunga@gmail.com">
+    <img 
+      src="https://skillicons.dev/icons?i=gmail" 
+      height="30"
+      style="vertical-align: middle;"
+    />  
+  </a>
+    </td>
+    <td>
+      <a href="mailto:lasitharanathunga@gmail.com">lasitharanathunga@gmail.com</a>
+    </td>
+  </tr>
+</table>
+
+
 
 ## 🛠 Tech Stack
 
