@@ -52,41 +52,44 @@
 </p>
 
 ### Frontend
-- React
-- React Router
-- React Hook Form
-- Zod
-- Tailwind CSS
-- Shadcn UI
+
 <p>
-    <img src="https://skillicons.dev/icons?i=react" height="40" />
-    <img src="https://miro.medium.com/v2/resize:fit:1400/0*Zb9Uoad33rLb7v03.png" height="40""  />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgsHICdOH2awISuCdhQfZSCboBhr9AHenAIw&s" height="40" />
-    <img src="https://zod.dev/icon.png?39fe259ddd7f4224" height="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" height="40" />
-  <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" height="40" />
+    <img src="https://skillicons.dev/icons?i=react" height="50" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/0*Zb9Uoad33rLb7v03.png" height="50""  />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgsHICdOH2awISuCdhQfZSCboBhr9AHenAIw&s" height="50" />
+    <img src="https://zod.dev/icon.png?39fe259ddd7f4224" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" height="50" />
+  <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" height="50" />
 </p>
 
 ### Backend
-- Node.js
-- Express.js
-- RESTful API Design
-- Prisma ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" />
+</p>
 
 ### Databases
-- PostgreSQL
 
-### Testing & DevOps
-- Vitest
-- Docker
-- GitHub Actions (CI/CD)
-- Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma" height="50" />
+</p>
 
-### AI & ML
-- PyTorch
-- Hugging Face Transformers
-- Transformer-based sequence labeling
-- Retrieval Augmented Generation (RAG)
+### Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vitest" height="50" />
+</p>
+
+### DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux" height="50" />
+</p>
+
+### Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" height="50" />
+</p>
 
 ---
 
