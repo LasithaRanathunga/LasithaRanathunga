@@ -98,6 +98,10 @@
 ## 🔐 SafeDeal – Freelance Escrow Platform
 A full stack web application for secure freelance collaborations with milestone-based payments, contract management, and file sharing.
 
+<p align="center">
+  <img src="./assets/safedeal.png" width="600"/>
+</p>
+
 - 💳 Integrated Stripe for payment handling  
 - 📄 Designed contract and milestone management system  
 - 📁 Implemented secure file sharing between users  
