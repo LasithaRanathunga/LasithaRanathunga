@@ -96,7 +96,7 @@
 # Featured Projects
 
 ## 🔐 SafeDeal – Freelance Escrow Platform
-A full stack web application for secure freelance collaborations with milestone-based payments, contract management, and file sharing.
+A full stack web application for secure freelance collaborations with milestone based payments, contract management, and file sharing.
 
 <p>
   <img src="assets/d2cffbb4-5fb2-4ff3-84d1-7034c6d0aac2_removalai_preview.png" height="60" />
